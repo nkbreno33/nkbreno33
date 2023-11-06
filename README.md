@@ -1,6 +1,6 @@
 # Nicholas Mourão
 
-## Bem vindo ao meu Pefil Github 👋 
+## Bem vindo ao meu Perfil Github 👋 
 
 Olá pessoal, me chamo Nicholas e tenho 27 anos, moro em São Paulo e sou formado em Análise e Desenvolvimento de Sistemas, sou apaixonado por tecnologia e tudo que engloba.
 
