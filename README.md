@@ -15,6 +15,8 @@ Olá pessoal, me chamo Nicholas e tenho 27 anos, moro em São Paulo e sou formad
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width = "40" height = "40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width = "40" height = "40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width = "40" height = "40"/>
+
+[![card](https://github-readme-stats.vercel.app/api?username=nkbreno33&theme=default)](https://github.com/anuraghazra/github-readme-stats)
           
 ## Contato
 
